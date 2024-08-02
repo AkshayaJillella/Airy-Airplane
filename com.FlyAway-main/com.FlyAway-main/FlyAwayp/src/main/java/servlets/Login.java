@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServletResponse;
 
 public class Login extends HttpServlet {
 	public static boolean isLoggedIn = false;
-	public static String email = "suryakondisetti123@gmail.com";
-	public static String password = "surya";
+	public static String email = "akshayajillella12@gmail.com";
+	public static String password = "shiny jillella";
 
 	@Override
 	public void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
